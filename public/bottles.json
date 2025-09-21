@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "bottle_name": "AquaMax Steel Bottle",
+    "company": "AquaMax",
+    "price": 850,
+    "weight": "300g",
+    "capacity": "750ml",
+    "lifespan": "3 years",
+    "image": "https://example.com/images/aquamax-steel.jpg",
+    "support": "Hot & Cold"
+  },
+  {
+    "id": 2,
+    "bottle_name": "CoolMate Plastic Bottle",
+    "company": "CoolMate",
+    "price": 250,
+    "weight": "120g",
+    "capacity": "1L",
+    "lifespan": "1 year",
+    "image": "https://example.com/images/coolmate-plastic.jpg",
+    "support": "Cold"
+  },
+  {
+    "id": 3,
+    "bottle_name": "ThermoPro Vacuum Flask",
+    "company": "ThermoPro",
+    "price": 1200,
+    "weight": "400g",
+    "capacity": "500ml",
+    "lifespan": "5 years",
+    "image": "https://example.com/images/thermopro-flask.jpg",
+    "support": "Hot & Cold"
+  },
+  {
+    "id": 4,
+    "bottle_name": "EcoGlass Bottle",
+    "company": "EcoWare",
+    "price": 600,
+    "weight": "350g",
+    "capacity": "600ml",
+    "lifespan": "2 years",
+    "image": "https://example.com/images/ecoglass.jpg",
+    "support": "Cold"
+  },
+  {
+    "id": 5,
+    "bottle_name": "HydroMax Insulated Bottle",
+    "company": "HydroMax",
+    "price": 1500,
+    "weight": "450g",
+    "capacity": "1L",
+    "lifespan": "6 years",
+    "image": "https://example.com/images/hydromax.jpg",
+    "support": "Hot & Cold"
+  }
+]
